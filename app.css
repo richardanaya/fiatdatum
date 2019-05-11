@@ -1,0 +1,29 @@
+html,body {
+  font-family: 'EB Garamond', serif;
+  rgba(0, 0, 0, 0.87);
+}
+
+.splash {
+  position: absolute;
+  width: 400px;
+  height: 150px;
+  top: 50%;
+  left: 50%;
+  margin-left: -200px;
+  margin-top: -75px;
+  text-align: center;
+}
+
+.splash img {
+  width: 100px;
+}
+
+.title {
+  font-size: 23px;
+}
+.motto {
+  font-size: 34px;
+  line-height: .4;
+  font-weight: 100;
+  color: #555555;
+}
